@@ -2,6 +2,7 @@ from tkinter import *
 from gui import instant
 root= Tk()
 root.geometry("500x500")
+root.title('Morse Code Generator')
 root['background']='black'
 #root.wm_attributes('-transparentcolor','black')
 

@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-import random
-import time
-import datetime
+#import random
+#import time
+#import datetime
 from tkinter import messagebox
 #import mysql.connector
 #def hello():
